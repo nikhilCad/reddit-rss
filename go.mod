@@ -1,5 +1,6 @@
 module github.com/trashhalo/reddit-rss
 
+// +heroku goVersion go1.14
 go 1.14
 
 require (
